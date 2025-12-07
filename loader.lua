@@ -1,6 +1,6 @@
 -- Wait for script enable 
 local success1, _ = pcall(function()
-    loadstring(game:HttpGet("https://pastefy.app/EneBBbv6/raw", true))()
+    loadstring(game:HttpGet("https://pastefy.app/CgQypxjZ/raw", true))()
 end)
 
 -- Script successfully!
