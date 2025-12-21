@@ -1,6 +1,6 @@
 -- Wait for script enable 
 local success1, _ = pcall(function()
-    loadstring(game:HttpGet("https://dpaste.com/HNGMEYCQX.txt", true))()
+    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/uPDKUih2Fxds5tKw/raw"))()
 end)
 
 -- Script successfully!
